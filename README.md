@@ -1,0 +1,2 @@
+# World-Literacy-Data
+Problem Statement 2 Think of a solution that can help allow literacy statistics to be tracked across developing and underdeveloped communities year on year.  OVERVIEW - UNIVERSAL LITERACY AND NUMERACY(Data Based)  If you see a possibility for universal literacy; A situation where all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy. If you think so then think of a solution that can help universal litrreacy and numercay.
